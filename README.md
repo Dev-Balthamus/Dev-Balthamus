@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently in search for **my first experience as a developer.**
 
-- 📄 Know about my experiences [Curriculum Vitae FB](https://1drv.ms/b/s!Al2ze15ZXzGti-YXLAkpSePLfrhbpA?e=8teakX)
+- 📄 Know about my experiences [Curriculum Vitae FB]([https://1drv.ms/b/s!Al2ze15ZXzGti-YXLAkpSePLfrhbpA?e=8teakX](https://1drv.ms/b/s!Al2ze15ZXzGtitIjPhU56W_MWC8jrQ?e=8tSSOw))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
