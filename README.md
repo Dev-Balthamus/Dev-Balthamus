@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [![Linkedin Badge](https://img.shields.io/badge/-Francesco_Balsamo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/real-balthamus)
-  [![Gmail Badge](https://img.shields.io/badge/-francesco7411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:francesco7411@gmail.com)
-  [![Telegram Badge](https://img.shields.io/badge/-Francesco_Balsamo-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://msng.link/o?Francesco7411=tg)
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Francesco_Balsamo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/real-balthamus)](https://www.linkedin.com/in/real-balthamus) [![Gmail Badge](https://img.shields.io/badge/-francesco7411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francesco7411@gmail.com)](mailto:francesco7411@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-Francesco_Balsamo-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white&link=https://msng.link/o?Francesco7411=tg)](https://msng.link/o?Francesco7411=tg)
+
 </p>
 
 ---
